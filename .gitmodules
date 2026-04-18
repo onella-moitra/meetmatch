@@ -1,0 +1,3 @@
+[submodule "meetmatch_26"]
+	path = meetmatch_26
+	url = https://github.com/schneidine/meetmatch.git
