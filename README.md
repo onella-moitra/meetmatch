@@ -12,7 +12,7 @@ This repository contains my contributions as Team Lead. The original team reposi
 | :--- | :--- | :--- |
 | **Onella Moitra** | Team Lead & Lead Developer | [@onella-moitra](https://github.com/onella-moitra) |
 | **Schneidine Dorelien** | Backend/EventBrite API Integration | [@schneidine](https://github.com/scheidine) |
-| **Gabriel Moody** | Frontend/UI | [@uGoobyM](https://github.com/GoobyM) |
+| **Gabriel Moody** | Frontend/UI | [@GoobyM](https://github.com/GoobyM) |
 | **Cristoffer Bohorquez** | Backend/Ticketmaster API Integration | [@Cristofferb7](https://github.com/Cristofferb7) |
 | **Diego Rolon** | Chat/ChatThread Functionality | [@Ywrd10](https://github.com/Ywrd10) |
 
