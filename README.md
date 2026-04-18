@@ -22,6 +22,7 @@ As the **Team Lead**, I directed the product vision and managed the full technic
 *   **Project Leadership:** Served as the primary point of contact, **conducted all team meetings**, managed the product roadmap, and coordinated tasks to ensure project milestones were met.
 *   **System Architecture:** Built the core **Django** application and designed a **PostgreSQL** database schema optimized for event discovery and user matching.
 *   **Algorithm Development:** Designed and implemented the proprietary matching algorithm used to connect users based on location, interests, and event preferences.
+*   **Frontend & UI/UX Design:** Lead the design and development of the user interface, ensuring a responsive and intuitive mobile experience for event browsing and social matching.
 *   **Full-Stack Development:** Developed critical backend pipelines and worked across the frontend to refine the UI/UX for a seamless mobile experience.
 
 ## Stack
