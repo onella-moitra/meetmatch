@@ -1,6 +1,28 @@
 # MeetMatch
 
-MeetMatch is a friend-matching and events app with a mobile-first frontend.
+Ever found an event nearby that you wanted to attend, but had no one to go with? MeetMatch is a friend-matching and event discovery mobile app that connects users to nearby events based on their interests, location, and other preferences. It also matches users with others who share similar interests and are planning to attend the same events, making it easier to find people to go with.
+
+MeetMatch was originally conceived by me and developed in preparation for Project Launch, a semester-long competition hosted by Knight Hacks at UCF. The project was built by a team of five members, where I served as Team Lead, coordinating development and guiding product direction.
+
+This repository contains my contributions as Team Lead. The original team repository can be found [here](https://github.com/schneidine/meetmatch).
+
+### Team
+
+| Member | Role | GitHub |
+| :--- | :--- | :--- |
+| **Onella Moitra** | Team Lead & Lead Developer | [@onella-moitra](https://github.com/onella-moitra) |
+| **Schneidine Dorelien** | Backend/EventBrite API Integration | [@schneidine](https://github.com/scheidine) |
+| **Gabriel Moody** | Frontend/UI | [@uGoobyM](https://github.com/GoobyM) |
+| **Cristoffer Bohorquez** | Backend/Ticketmaster API Integration | [@Cristofferb7](https://github.com/Cristofferb7) |
+| **Diego Rolon** | Chat/ChatThread Functionality | [@Ywrd10](https://github.com/Ywrd10) |
+
+### My Responsibilities & Contributions
+As the **Team Lead**, I directed the product vision and managed the full technical stack. My key contributions included:
+
+*   **Project Leadership:** Served as the primary point of contact, **conducted all team meetings**, managed the product roadmap, and coordinated tasks to ensure project milestones were met.
+*   **System Architecture:** Built the core **Django** application and designed a **PostgreSQL** database schema optimized for event discovery and user matching.
+*   **Algorithm Development:** Designed and implemented the proprietary matching algorithm used to connect users based on location, interests, and event preferences.
+*   **Full-Stack Development:** Developed critical backend pipelines and worked across the frontend to refine the UI/UX for a seamless mobile experience.
 
 ## Stack
 
